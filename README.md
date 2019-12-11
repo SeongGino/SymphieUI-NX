@@ -1,8 +1,4 @@
-# SymphieUI - NX Version
-v0.72alpha (12/08/2019)
-
----
-
+# SymphieUI - NX Version v0.72alpha (12/08/2019)
 To install, extract the SymphieUI_NX-TypeX folders to ~/home/.esoteric/skins/.
 
 This pack is targeted for 350teric ver. 12/04/2019 or newer.
@@ -10,6 +6,8 @@ This pack is targeted for 350teric ver. 12/04/2019 or newer.
 The three versions provided are all made exclusively for 350teric's (default) grid mode, when using more than one column of links. The background design is not made for list mode, so please keep this in mind! Each one corresponds to the three window styles; "TypeA" is Phantasia-style boxes, and "TypeB" + "TypeC" are the default and golden-brown Symphonia-style boxes with respective bordering. Each one defaults to the "F-style" wallpaper (texture-less for Phanta-style, paper texture for Symphie-style); you can change the wallpaper freely using the included A-through-F background.pngs for each respective window style using the standard wallpaper selection dialog.
 
 If you'd like to use the built-in loaders (for first boot), then rename the provided 'loader\loaderENG/JPN.conf' to 'loader\loader.conf'. These are rather lengthy, hence why they're nulled out by default. If more reliable loader skip functionality is implemented, then these may become default in the future.
+
+![header](https://github.com/SeongGino/SymphieUI-NX/blob/master/SymphieUI_v0.72a-Preview.png)
 
 ---
 
