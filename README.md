@@ -1,4 +1,7 @@
-# SymphieUI - NX Version v0.72alpha (12/08/2019)
+# SymphieUI - NX Version
+
+Ver. (12/08/2019)
+---
 To install, extract the SymphieUI_NX-TypeX folders to ~/home/.esoteric/skins/.
 
 This pack is targeted for 350teric ver. 12/04/2019 or newer.
