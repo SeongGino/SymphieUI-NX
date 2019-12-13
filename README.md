@@ -10,7 +10,7 @@ The three versions provided are all made exclusively for 350teric's (default) gr
 
 If you'd like to use the built-in loaders (for first boot), then rename the provided 'loader\loaderENG/JPN.conf' to 'loader\loader.conf'. These are rather lengthy, hence why they're nulled out by default. If more reliable loader skip functionality is implemented, then these may become default in the future.
 
-![header](https://github.com/SeongGino/SymphieUI-NX/blob/master/SymphieUI_v0.72a-Preview.png)
+![header](https://github.com/SeongGino/SymphieUI-NX/blob/master/SymphieUI-Preview.png)
 
 ---
 
