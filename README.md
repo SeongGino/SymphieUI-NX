@@ -18,7 +18,7 @@ This pack currently aims to *loosely* emulate the feel of the original menu inte
 
 If you've played any of the Final Fantasy games past IV/US II, then you already have an idea of the customization used in this game - but Symphonia takes it to another level by providing three distinct window styles (aptly named "Windows") with different default colors and borders, and seven(!) choices of window texture - all with completely customizeable RGB & Alpha values. Of course, these being static .pngs we're working with, this runtime-level customizability isn't possible; but at least all seven background styles are included using each window style's default coloring to make up for this.
 
-The skin is about 75% complete based on its original concept, but currently uses placeholder button graphics from the tangentially-related LegieUI (based on Legendia), and is also missing custom icons. I intended to make thematically appropriate icons made for at least the basic system items, but thanks to laziness/not being a graphic design major, these have been pushed to the backlog for now. While I plan to do this for the system category, there are no guarantees for apps/emus/games as there's WAY too friggin many to account for.
+The skin is about 80% complete based on its original concept, but is currently missing custom icons. I intended to make thematically appropriate icons made for at least the basic system items, but thanks to laziness/not being a graphic design major, these have been pushed to the backlog for now. While I plan to do this for the system category, there are no guarantees for apps/emus/games as there's WAY too friggin many to account for.
 
 ---
 ## Credits
